@@ -28,7 +28,11 @@ body {
 	background-attachment: fixed;
 	background-size: cover;
 	
-	
+	<div class="footer">
+	כל הזכויות שמורות ליעל אלון <br>
+	<a href="https://api.whatsapp.com/send?phone=9720546902132&amp;text=הי יעל%20" title="שליחת ווצאפ ישירות ליעל" target="_blank"> 054-6902132</a><br>
+	<a href="mailto:yael.alom@gmail.com" title="שליחת דואר אלקטרוני ישירות ליעל" target="_blank"> yael.alom@gmail.com </a><br>
+	</div>
 	
 
 }
